@@ -6,6 +6,7 @@ Release:	1
 License:	distributable
 Group:		Documentation
 Source0:	http://www.tldp.org/LDP/%{name}/Custom-Porting-Guide.html.tar.gz
+# Source0-md5:	d3716f3750152305b10cd557e2bdbffd
 URL:		http://www.tldp.org/LDP/%{name}/html/index.html
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
