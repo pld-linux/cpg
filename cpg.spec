@@ -23,7 +23,7 @@ Ten podrêcznik opisuje sposób pracy przy przenoszeniu Linuksa na
 platformê PowerPC. To znaczy jak "siê obchodziæ" z nie znanym
 sprzêtem. Ktokolwiek, kto siê tym zajmuje mo¿e skorzystaæ z czytania
 tego przewodnika, gdy¿ wyró¿nione s± tu pu³apki i problematyczne
-sytucje, które mog± siê przy tym przytrafiæ.
+sytuacje, które mog± siê przy tym przytrafiæ.
 
 %prep
 %setup -q -n Custom-Porting-Guide
