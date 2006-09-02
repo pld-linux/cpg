@@ -8,6 +8,7 @@ Group:		Documentation
 Source0:	http://www.tldp.org/LDP/cpg/Custom-Porting-Guide.html.tar.gz
 # Source0-md5:	d3716f3750152305b10cd557e2bdbffd
 URL:		http://www.tldp.org/LDP/cpg/html/index.html
+Requires:	LDP-base
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
@@ -31,7 +32,6 @@ sytuacje, które mog± siê przy tym przytrafiæ.
 %install
 rm -rf $RPM_BUILD_ROOT
 install -d $RPM_BUILD_ROOT%{_docdir}/LDP/%{name}
-
 cp -ar * $RPM_BUILD_ROOT%{_docdir}/LDP/%{name}
 
 %clean
