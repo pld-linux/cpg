@@ -1,5 +1,5 @@
 Summary:	LDP A Porting Guide - Porting LinuxPPC to a Custom SBC
-Summary(pl.UTF-8):   Przewodnik dla przenoszących Linuksa na platformę PPC
+Summary(pl.UTF-8):	Przewodnik dla przenoszących Linuksa na platformę PPC
 Name:		cpg
 Version:	2.0
 Release:	1
