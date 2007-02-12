@@ -1,5 +1,5 @@
 Summary:	LDP A Porting Guide - Porting LinuxPPC to a Custom SBC
-Summary(pl):	Przewodnik dla przenosz±cych Linuksa na platformê PPC
+Summary(pl.UTF-8):   Przewodnik dla przenoszÄ…cych Linuksa na platformÄ™ PPC
 Name:		cpg
 Version:	2.0
 Release:	1
@@ -19,12 +19,12 @@ unfamiliar hardware. Anyone, who is on the same track might benefit
 from reading this paper, as it highlights the pitfalls and problematic
 points along the way.
 
-%description -l pl
-Ten podrêcznik opisuje sposób pracy przy przenoszeniu Linuksa na
-platformê PowerPC. To znaczy jak "siê obchodziæ" z nie znanym
-sprzêtem. Ktokolwiek, kto siê tym zajmuje mo¿e skorzystaæ z czytania
-tego przewodnika, gdy¿ wyró¿nione s± tu pu³apki i problematyczne
-sytuacje, które mog± siê przy tym przytrafiæ.
+%description -l pl.UTF-8
+Ten podrÄ™cznik opisuje sposÃ³b pracy przy przenoszeniu Linuksa na
+platformÄ™ PowerPC. To znaczy jak "siÄ™ obchodziÄ‡" z nie znanym
+sprzÄ™tem. Ktokolwiek, kto siÄ™ tym zajmuje moÅ¼e skorzystaÄ‡ z czytania
+tego przewodnika, gdyÅ¼ wyrÃ³Å¼nione sÄ… tu puÅ‚apki i problematyczne
+sytuacje, ktÃ³re mogÄ… siÄ™ przy tym przytrafiÄ‡.
 
 %prep
 %setup -q -n Custom-Porting-Guide
